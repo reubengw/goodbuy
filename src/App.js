@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import React, {Component} from 'react';
+import Stock from 'Stock.js';
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          
           Learn React
         </a>
       </header>
